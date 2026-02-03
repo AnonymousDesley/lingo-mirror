@@ -27,7 +27,7 @@ If you’re still using `ml-4` instead of `ms-4` (logical properties), your Arab
 ---
 
 ## 🛠️ Tech Stack
-* **Next.js 15** (App Router, obviously)
+* **Next.js 16** (App Router, obviously)
 * **Tailwind CSS** (for the vibes)
 * **Lingo.dev SDK** (the brains)
 * **TypeScript** 
