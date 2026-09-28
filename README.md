@@ -12,7 +12,7 @@ My icons were on the wrong side, my `margin-left` was still "lefting," and the w
 
 ## 🧐 The Struggle (The "Why")
 Lingo.dev handles the words. But it doesn't refactor your CSS. 
-If you’re still using `ml-4` instead of `ms-4` (logical properties), your Arabic and Hebrew users are having a bad time. I built this to stop the "guess and check" cycle of internationalization.
+If you’re still using `ml-4` instead of `ms-4` (logical properties), your Arabic and Hebrew users are having a bad time. I built this to stop the "guess and check" cycle of internationalization (18n).
 
 
 
